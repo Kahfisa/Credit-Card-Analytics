@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This project presents an interactive dashboard analyzing customer data across three key segments, including customer demography, customer revenue, and customer risk. It explores customer distribution by occupation, marital status, and state, evaluates sales performance and transaction behavior by occupation and card category, and identifies delinquency patterns across education levels, occupations, and state
+Financial institutions generate large volumes of customer and transaction data every day, but turning this data into meaningful insights remains a challenge. Therefore, this project aims to analyze customer demographics, revenue contribution, and credit risk using Python for data processing and Looker Studio for visualization to support data-driven decision making.
 
 ## Tools
 - Python
