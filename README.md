@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Financial institutions generate large volumes of customer and transaction data every day, but turning this data into meaningful insights remains a challenge. Therefore, this project aims to analyze customer demographics, revenue contribution, and credit risk using Python for data processing and Looker Studio for visualization to support data-driven decision making.
+Financial sector generate large volumes of customer and transaction data every day, but turning this data into meaningful insights remains a challenge. Therefore, this project aims to analyze customer demographics, revenue contribution, and credit risk using Python for data processing and Looker Studio for visualization to support data-driven decision making.
 
 ## Tools
 - Python
@@ -54,11 +54,11 @@ Financial institutions generate large volumes of customer and transaction data e
 
 ## Dashboard Preview
 
-<img width="1365" height="946" alt="image" src="https://github.com/user-attachments/assets/c9c79207-49cd-45f6-91a8-50174e0eef38" />
+<img width="1364" height="948" alt="image" src="https://github.com/user-attachments/assets/bf7337ba-0768-4401-91f1-95f42c16f227" />
 
-<img width="1364" height="948" alt="image" src="https://github.com/user-attachments/assets/41960a13-594f-4fe2-bd94-37901ad11010" />
+<img width="1361" height="949" alt="image" src="https://github.com/user-attachments/assets/c8424bf0-da5b-4abc-a453-6bc4d399c6c3" />
 
-<img width="1364" height="948" alt="image" src="https://github.com/user-attachments/assets/21e7ecb6-76e9-4e42-bb4b-97ea774c8f78" />
+<img width="1363" height="948" alt="image" src="https://github.com/user-attachments/assets/c4cb9a8d-398d-445c-804f-c172a0b9e7d2" />
 
 
 Logo Source: Logo by juicy_fish on Freepik
