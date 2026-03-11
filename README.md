@@ -54,11 +54,11 @@ Financial institutions generate large volumes of customer and transaction data e
 
 ## Dashboard Preview
 
-<img width="1365" height="948" alt="image" src="https://github.com/user-attachments/assets/5508c275-d818-4cdd-a6c1-9c6cec378562" />
+<img width="1365" height="946" alt="image" src="https://github.com/user-attachments/assets/c9c79207-49cd-45f6-91a8-50174e0eef38" />
 
-<img width="1367" height="948" alt="image" src="https://github.com/user-attachments/assets/bf874603-fd64-45e1-928f-9a8ce5e52953" />
+<img width="1364" height="948" alt="image" src="https://github.com/user-attachments/assets/41960a13-594f-4fe2-bd94-37901ad11010" />
 
-<img width="1367" height="948" alt="image" src="https://github.com/user-attachments/assets/b71e3940-658b-4fa0-989c-0e946fb6da4c" />
+<img width="1364" height="948" alt="image" src="https://github.com/user-attachments/assets/21e7ecb6-76e9-4e42-bb4b-97ea774c8f78" />
 
 
 Logo Source: Logo by juicy_fish on Freepik
