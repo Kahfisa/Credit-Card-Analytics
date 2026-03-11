@@ -1,4 +1,4 @@
-# Credit-Card-Report
+# Credit-Card-Analytics
 
 
 ## Introduction
