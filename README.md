@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Financial sector generate large volumes of customer and transaction data every day, which can be leveraged to support better decision-making. Therefore, this project aims to analyze customer demographics, revenue and card Usage, and risk analysis using Python for data processing and Looker Studio for visualization to support data-driven decision making.
+Financial sector generate large volumes of customer and transaction data every day, which can be leveraged to support better decision-making. Therefore, this project aims to analyze customer demographics, revenue and card usage, and risk analysis using Python for data processing and Looker Studio for visualization to support data-driven decision making.
 
 ## Tools
 - Python
@@ -54,11 +54,11 @@ Financial sector generate large volumes of customer and transaction data every d
 
 ## Dashboard Preview
 
-<img width="1364" height="948" alt="image" src="https://github.com/user-attachments/assets/bf7337ba-0768-4401-91f1-95f42c16f227" />
+<img width="1365" height="948" alt="Screenshot 2026-03-12 085808" src="https://github.com/user-attachments/assets/c115f1cd-1632-4541-8b54-a29492fac073" />
 
-<img width="1361" height="949" alt="image" src="https://github.com/user-attachments/assets/c8424bf0-da5b-4abc-a453-6bc4d399c6c3" />
+<img width="1364" height="948" alt="Screenshot 2026-03-12 085817" src="https://github.com/user-attachments/assets/26f0c63b-c787-4cb9-92e1-48f0cb19410c" />
 
-<img width="1363" height="948" alt="image" src="https://github.com/user-attachments/assets/c4cb9a8d-398d-445c-804f-c172a0b9e7d2" />
+<img width="1362" height="947" alt="Screenshot 2026-03-12 085833" src="https://github.com/user-attachments/assets/617b28ee-38b3-4011-8745-a83063af27df" />
 
 
 Logo Source: Logo by juicy_fish on Freepik
