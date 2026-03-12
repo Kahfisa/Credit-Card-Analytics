@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Financial sector generate large volumes of customer and transaction data every day, but turning this data into meaningful insights remains a challenge. Therefore, this project aims to analyze customer demographics, revenue contribution, and credit risk using Python for data processing and Looker Studio for visualization to support data-driven decision making.
+Financial sector generate large volumes of customer and transaction data every day, which can be leveraged to support better decision-making. Therefore, this project aims to analyze customer demographics, Revenue & Card Usage, and Risk Analysis using Python for data processing and Looker Studio for visualization to support data-driven decision making.
 
 ## Tools
 - Python
